@@ -49,3 +49,17 @@ If you own or have substantially used a product and would like to help with a re
 To check the preview live version with some examples:
 
 [Ecommerce Products Reviews Sentiment Analysis](http://reviewy.io)
+
+To check latest reviewed products:
+[Latest Ecommerce Products Reviews Sentiment Analysis](http://reviewy.io/latest-products/index)
+
+Some individual products to be reviewed: 
+[Solar Bluetooth Speaker, Airecho 30-Hour Playtime Dual-driver HD Stereo Portable Wireless Silicone Bluetooth 4.0 Speaker for Outdoor Sport ( Splashproof and Shockproof ) - Black Review](http://reviewy.io/reviews/solar-bluetooth-speaker-airecho-30-hour-playtime-dual-driver-hd-stereo-portable-wireless-silicone-bluetooth/)
+
+[Gskyer Telescope, 600x90mm AZ Astronomical Refractor Telescope, German Technology Scope Review](http://reviewy.io/reviews/gskyer-telescope-600x90mm-az-astronomical-refractor-telescope-german-technology-scope/)
+
+[SolidRF SOHO 850 MHz / 1900 MHz Dual Band Cell Phone Signal Booster for Home and Office Review](http://reviewy.io/reviews/solidrf-soho-850-mhz-1900-mhz-dual-band-cell-phone-signal-booster-for-home-and-office/)
+
+[MAXSISUN Dimmable 300W LED Grow Light 12-band Full Spectrum Veg and Bloom Dimmers for Indoor Greenhouse Plants Review](http://reviewy.io/reviews/maxsisun-dimmable-300w-led-grow-light-12-band-full-spectrum-veg-and-bloom-dimmers-for-indoor-greenhouse/)
+
+[Review of Tsmine Bluetooth Mouse Rechargeable Wireless Mice, 5 Buttons for Notebook, PC, Laptop, Computer, Macbook 2017(NOT for iPhone or iPad) - Gold](http://reviewy.io/reviews/tsmine-bluetooth-mouse-rechargeable-wireless-mice-5-buttons-for-notebook-pc-laptop-computer-macbook/)
