@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /latest-products/index/
+Disallow: /latest-products/
+

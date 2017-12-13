@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Reviewy.io</title>
+    <link>http://reviewy.io/about/</link>
+    <description>Recent content in Abouts on Reviewy.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2017 Reviewy.io</copyright>
+    <lastBuildDate>Sat, 05 Nov 2016 21:05:33 +0530</lastBuildDate>
+    
+	<atom:link href="http://reviewy.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arificial Inteligence and Machine Learning application for Sentiment Analysis on consumer products reviews</title>
+      <link>http://reviewy.io/about/index/</link>
+      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
+      
+      <guid>http://reviewy.io/about/index/</guid>
+      <description>Our concept is simple, using machine learning techniques and a series of textual and lexical algorithms we are researching and building the next step in textual sentiment analysis with the idea to provide consumers with an easy way to identify how people feel about the products they buy.
+Many times people would like to have a way to know if a product would really makes them happy as advertised, sometimes our friends own different products and we would like to get in touch with people who are already using the product we are thinking about buying.</description>
+    </item>
+    
+  </channel>
+</rss>
