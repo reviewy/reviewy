@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Reviewy.io</title>
-    <link>http://reviewy.io/tags/</link>
+    <link>https://reviewy.github.io/reviewy/tags/</link>
     <description>Recent content in Tags on Reviewy.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Reviewy.io</copyright>
     
-	<atom:link href="http://reviewy.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://reviewy.github.io/reviewy/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
